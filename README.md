@@ -4,7 +4,7 @@ A cross-platform Uber clone app built with React Native, Expo
 
 ## Demo
 
-<img src="./main/assets/screenshots/demo.gif" alt="React native uber clone" width="320px"/>
+<img src="./assets/screenshots/demo.gif" alt="React native uber clone" width="320px"/>
 
 ## Features
 
@@ -42,6 +42,6 @@ Start the server
 
 ## Screenshots
 
-<img src="./main/assets/screenshots/home.jpg" alt="Screen to pick an origin" width="240px"/> 
-<img src="./main/assets/screenshots/search.jpg" alt="Screen to pick a destination" width="240px"/> 
-<img src="./main/assets/screenshots/result.jpg" alt="Screen to pick a ride" width="240px"/>
+<img src="./assets/screenshots/home.jpg" alt="Screen to pick an origin" width="240px"/> 
+<img src="./assets/screenshots/search.jpg" alt="Screen to pick a destination" width="240px"/> 
+<img src="./assets/screenshots/result.jpg" alt="Screen to pick a ride" width="240px"/>
