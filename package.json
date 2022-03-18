@@ -35,5 +35,21 @@
     "@types/react-native": "~0.63.2",
     "typescript": "~4.0.0"
   },
-  "private": true
+  "private": true,
+  "name": "uber-rebuild",
+  "description": "A cross-platform Uber clone app built with React Native, Expo",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit628792/Uber-Rebuild.git"
+  },
+  "keywords": [
+    "uber"
+  ],
+  "author": "ankit628792",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ankit628792/Uber-Rebuild/issues"
+  },
+  "homepage": "https://github.com/Ankit628792/Uber-Rebuild#readme"
 }
